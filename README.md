@@ -30,8 +30,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=microsoft) 
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=purple)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&logoColor=lightblue)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=430098)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&logoColor=00C7B7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ### &#x1f4c8; GitHub Stats
