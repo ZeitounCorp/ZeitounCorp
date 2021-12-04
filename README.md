@@ -13,20 +13,25 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Meteor](https://img.shields.io/badge/-Meteor-000?&logo=Meteor)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React_Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=microsoft) 
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=purple)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&logoColor=lightblue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ### &#x1f4c8; GitHub Stats
