@@ -1,5 +1,5 @@
 [![Header](https://github.com/ZeitounCorp/ZeitounCorp/blob/main/GH.gif "Header")](https://github.com/ZeitounCorp/ZeitounCorp/)
-### Hello World
+### Hello World 
 
 <div align="center">
   <a href="https://app.daily.dev/MarshevEngi"><img align="center" src="https://github.com/ZeitounCorp/ZeitounCorp/blob/main/devcard.svg" width="250" alt="Lenny Zeitoun's Dev Card"/></a>
@@ -59,15 +59,15 @@
 ### Connect with me  
 <div align="center">
   <a href="https://github.com/ZeitounCorp" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/lenny-zeitoun/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>  
   <a href="https://dev.to/zeitouncorp" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=dev.to style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt=dev.to style="margin-bottom: 5px;" />
   </a>
-</div>  
+</div>
 
 ### Support my work
 ![Patreon](https://img.shields.io/badge/-Patreon-000?&logo=Patreon)
