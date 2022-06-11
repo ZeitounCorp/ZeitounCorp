@@ -1,5 +1,5 @@
 [![Header](https://github.com/ZeitounCorp/ZeitounCorp/blob/main/GH.gif "Header")](https://github.com/ZeitounCorp/ZeitounCorp/)
-### Hello World <img src="https://raw.githubusercontent.com/ZeitounCorp/ZeitounCorp/main/wave.gif" style="width: 32px;" />
+### Hello World
 
 <div align="center">
   <a href="https://app.daily.dev/MarshevEngi"><img align="center" src="https://github.com/ZeitounCorp/ZeitounCorp/blob/main/devcard.svg" width="250" alt="Lenny Zeitoun's Dev Card"/></a>
