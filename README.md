@@ -59,15 +59,19 @@
 ### Connect with me  
 <div align="center">
   <a href="https://github.com/ZeitounCorp" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/lenny-zeitoun/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>  
   <a href="https://dev.to/zeitouncorp" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt=dev.to style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
   </a>
 </div>
 
 ### Support my work
-![Patreon](https://img.shields.io/badge/-Patreon-000?&logo=Patreon)
+<div align="center">
+  <a href="https://www.patreon.com/marshevEngi" target="_blank">
+    <img src="https://img.shields.io/badge/-Patreon-000?style=for-the-badge&logo=patreon" alt="Patreon" style="margin-bottom: 5px;" />
+  </a>
+</div>
