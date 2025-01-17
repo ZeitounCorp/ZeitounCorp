@@ -19,6 +19,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Meteor](https://img.shields.io/badge/-Meteor-000?&logo=Meteor)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJS](https://img.shields.io/badge/-Next.Js-000?&logo=nextdotjs)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![React_Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
