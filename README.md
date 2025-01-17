@@ -20,6 +20,7 @@
 ![Meteor](https://img.shields.io/badge/-Meteor-000?&logo=Meteor)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![NextJS](https://img.shields.io/badge/-Next.Js-000?&logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![React_Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
